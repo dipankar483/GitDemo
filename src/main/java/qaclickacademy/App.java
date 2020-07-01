@@ -10,4 +10,11 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public void testCode() {
+    	
+    	System.out.println("New Code");
+		System.out.println("post jira1");
+
+    }
 }
